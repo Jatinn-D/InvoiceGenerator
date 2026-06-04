@@ -1,0 +1,14 @@
+node_modules
+dist
+.DS_Store
+*.log
+npm-debug.log*
+.vscode
+.idea
+
+# Vite / env
+.env
+.env.local
+.env.*.local
+
+.claude
